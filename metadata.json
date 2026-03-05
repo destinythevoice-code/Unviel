@@ -1,0 +1,7 @@
+{
+  "name": "Unveil",
+  "description": "Unveil: Visionary Real Estate AI. Transform property potential into reality for homebuyers and investors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
